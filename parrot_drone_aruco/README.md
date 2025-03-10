@@ -1,4 +1,4 @@
-# Drone Navigation with Aruco Marker and PID Control
+## Drone Navigation with Aruco Marker and PID Control
 
 Ce projet permet à un drone de naviguer automatiquement en utilisant un marqueur Aruco comme référence. Il utilise un contrôle PID (Proportional-Integral-Derivative) pour ajuster la position du drone en fonction de l'erreur détectée par la caméra et du marqueur. Le drone prend en compte les erreurs de position horizontale, verticale, et de distance pour se déplacer.
 
