@@ -34,7 +34,7 @@ cd parrot_drone_aruco
 python main.py
 ```
 # contributeurs:
-Steve Donfack
-Christtiian Tamdjo
-Ghous Iqbal
+- Steve Donfack
+- Christtiian Tamdjo
+- Ghous Iqbal
 
