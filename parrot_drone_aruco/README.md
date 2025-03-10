@@ -35,6 +35,6 @@ python main.py
 ```
 ## contributeurs:
 - Steve Donfack
-- Christtiian Tamdjo
+- Christtian Tamdjo
 - Ghous Iqbal
 
