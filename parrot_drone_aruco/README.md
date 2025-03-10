@@ -23,4 +23,18 @@ Pour installer les bibliothèques nécessaires, exécutez les commandes suivante
 ```bash
 pip install opencv-python numpy
 ```
+## Lancement
+```bash
+git clone https://github.com/dsteve87/Robotics_projects.git
+```
+```bash
+cd parrot_drone_aruco
+```
+```bash
+python main.py
+```
+# contributeurs:
+Steve Donfack
+Christtiian Tamdjo
+Ghous Iqbal
 
