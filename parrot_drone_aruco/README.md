@@ -33,7 +33,7 @@ cd parrot_drone_aruco
 ```bash
 python main.py
 ```
-# contributeurs:
+## contributeurs:
 - Steve Donfack
 - Christtiian Tamdjo
 - Ghous Iqbal
